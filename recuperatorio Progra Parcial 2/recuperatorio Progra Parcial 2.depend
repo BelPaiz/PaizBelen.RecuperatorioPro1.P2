@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1659393643 source:d:\usuarios\belen\documentos\programacion1\recuperatorio progra parcial 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
